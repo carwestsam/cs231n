@@ -1,0 +1,15 @@
+*.py[co]
+__pycache__
+*.egg-info
+*~
+*.bak
+.ipynb_checkpoints
+.tox
+.DS_Store
+\#*#
+.#*
+.coverage
+*.swp
+.idea
+cs231n/datasets/cifar-10-python.tar.gz
+cs231n/datasets/cifar-10-batches-py
